@@ -63,7 +63,7 @@ ii) prompts the end user to enter a GitHub username to retrieve a list of all th
 There are three different functions used to showcase this functionality:
 i) saves the most popular Harvard repositories locally
 ii) saves the most popular Python repositories locally
-iii) saves my profile picture locally
+iii) saves my user profile information locally
 
 ## Testing
 
