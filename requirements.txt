@@ -1,0 +1,5 @@
+tabulate
+requests
+pyfiglet
+pytest
+responses
